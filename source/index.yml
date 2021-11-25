@@ -1,18 +1,17 @@
-title: API Reference
+title: Instagram Clone Api Docs
 
 language_tabs:
-   - bash
-   - ruby
-   - python
-   - javascript
+  - javascript
+  - python
 
 toc_footers:
-   - <a href=https://github.com/center-key/node-slate>node-slate on GitHub</a>
-   - <a href=https://www.npmjs.com/package/node-slate>Documentation powered by Slate</a>
+  - <a https://www.vodacom.cd>Thanks to Vodacom</a>
+  - <a href=https://github.com/center-key/node-slate>node-slate on GitHub</a>
+  - <a href=https://www.npmjs.com/package/node-slate>Documentation powered by Slate</a>
 
 includes:
-   - main
-   - _errors
+  - main
+  - _errors
 
 search: true
 

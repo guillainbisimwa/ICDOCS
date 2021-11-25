@@ -1,3 +1,9 @@
+---
+noteId: "cb5ad9c04e0311ecaf3d2117c19ffd22"
+tags: []
+
+---
+
 <p align=center>
    <img src=https://raw.githubusercontent.com/lord/img/master/logo-slate.png width=226 alt=logo>
 </p>
